@@ -1,7 +1,7 @@
 
 
 def breakfast(food1="pancakes")
-  puts'breakfast is the right time for #{food1}'
+  puts"breakfast is the right time for #{food1}"
 end
 
 def lunch(food2="tacos")
