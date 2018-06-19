@@ -1,4 +1,4 @@
-def snacks(food4="egg sandwiches")
+def snacks(food4="cheetos")
   "#{food4} is a icky snacks"
 end
 
