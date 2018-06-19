@@ -9,8 +9,8 @@ def breakfast(food=pancakes)
 'breakfastis the right time for food'
 end
 
-puts luc
-
+def lunch(food=tacos)
+""
 
 # Call the methods with puts and your own arguments here. Like this:
 puts snacks("Swedish fish")
