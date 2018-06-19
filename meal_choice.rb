@@ -14,8 +14,8 @@ def dinner(food3="salmon")
     "#{food3} is hard to make for dinner"
 end
 
-
+puts snacks
 puts breakfast
 puts lunch
 puts dinner
-puts snacks
+
