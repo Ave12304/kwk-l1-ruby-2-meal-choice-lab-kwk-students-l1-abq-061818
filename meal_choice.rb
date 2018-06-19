@@ -15,6 +15,7 @@ end
 
 def dinner(food3=steak)
   puts  "#{food3} is hard to make for dinner"
+end
 
 # Call the methods with puts and your own arguments here. Like this:
 puts snacks("Swedish fish")
