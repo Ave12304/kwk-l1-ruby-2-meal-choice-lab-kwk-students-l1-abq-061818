@@ -1,4 +1,4 @@
-def snacks(food4="cheetos")
+def snacks(food4="Cheetos")
   "anytime is right for an #{food4}"
 end
 
