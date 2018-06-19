@@ -1,5 +1,5 @@
 def snacks(food4="cheetos")
-  "#{food4} is a icky snacks"
+  "anytime is right for an #{food4"
 end
 
 def breakfast(food1="frosted flakes")
