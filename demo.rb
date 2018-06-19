@@ -9,3 +9,7 @@ end
 def dinner(food3=steak)
   puts  "#{food3} is hard to make for dinner"
 end
+
+breakfast
+lunch
+dinner
